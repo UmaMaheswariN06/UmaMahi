@@ -1,3 +1,4 @@
+![logo](https://github.com/UmaMaheswariN06/UmaMahi/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Greetings 👋, I'm Uma Maheswari</h1>
 <h3 align="center">🔮 Transforming Data into Gold</h3>
 
